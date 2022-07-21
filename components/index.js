@@ -6,3 +6,6 @@ export * from './TableOfContents';
 export * from './TopNav';
 export * from './Quiz';
 export * from './Option';
+export * from './Flashcard';
+export * from './CardFront';
+export * from './CardBack';

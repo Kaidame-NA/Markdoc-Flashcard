@@ -8,6 +8,7 @@ const items = [
     links: [
       {href: '/docs', children: 'Overview'},
       {href: '/quiz', children: 'Quiz'},
+      {href: '/flashcard', children: 'Flashcard'},
     ],
   },
 ];
